@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* Regular font */
+@font-face {
+  font-family: 'Myanmar Sangam MN';
+  src: url('fonts/Myanmar Sangam MN.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Bold font */
+@font-face {
+  font-family: 'Bangala Sangam MN';
+  src: url('fonts/Bangala Sangam MN.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
