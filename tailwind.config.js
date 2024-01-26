@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        myanmar: ["'Myanmar Sangam MN'", 'sans-serif'],
-        bangala: ["'Bangala Sangam MN'", 'sans-serif']
+        myanmar: ["Myanmar Sangam MN", 'sans-serif'],
+        bangala: ["Bangala Sangam MN", 'sans-serif']
       }
     },
   },
