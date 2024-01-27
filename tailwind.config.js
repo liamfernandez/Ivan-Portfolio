@@ -2,8 +2,12 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        myanmar: ["Myanmar Sangam MN", 'sans-serif'],
+        bangala: ["Bangala Sangam MN", 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }
-
