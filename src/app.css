@@ -14,7 +14,7 @@
 /* Bold font */
 @font-face {
   font-family: 'Bangala Sangam MN';
-  src: url('fonts/BangalaSangamMN.ttf') format('truetype');
+  src: url('fonts/bangla-sangam-mn.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
